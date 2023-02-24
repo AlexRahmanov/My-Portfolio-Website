@@ -499,48 +499,64 @@ img {
   background-color: var(--first-color);
 }
 
+/* Front End Developer Skills Section */
 .skills-container .skills-html {
   width: 90%;
 }
 
 .skills-container .skills-css {
-  width: 80%;
+  width: 75%;
 }
 
-.skills-container .skills-js {
+.skills-container .skills-frontend-js {
   width: 60%;
 }
 
 .skills-container .skills-react {
-  width: 85%;
+  width: 65%;
 }
 
-.skills-container .skills-php {
-  width: 80%;
-}
-
-.skills-container .skills-node {
-  width: 70%;
-}
-
-.skills-container .skills-firebase {
-  width: 90%;
-}
-
+/* Back End Developer Skills Section */
 .skills-container .skills-python {
   width: 55%;
 }
 
-.skills-container .skills-figma {
-  width: 90%;
+.skills-container .skills-node {
+  width: 65%;
 }
 
-.skills-container .skills-sketch {
+.skills-container .skills-php {
+  width: 25%;
+}
+
+.skills-container .skills-backend-js {
+  width: 60%;
+}
+
+/* Data Analytics Skills Section */
+.skills-container .skills-sql {
+  width: 70%;
+}
+
+.skills-container .skills-postgres {
+  width: 65%;
+}
+
+.skills-container .skills-tableau {
+  width: 75%;
+}
+
+.skills-container .skills-ml {
+  width: 55%;
+}
+
+/* Designer Skills Section */
+.skills-container .skills-photoshop {
   width: 85%;
 }
 
-.skills-container .skills-ps {
-  width: 85%;
+.skills-container .skills-canva {
+  width: 70%;
 }
 
 /* QUALIFICATION */
